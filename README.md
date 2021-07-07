@@ -7,4 +7,4 @@ Code written in *Python 3.8* and these modules:
 - Matplotlib 3.3.4
 - Numpy 1.20.2
 
-
+Please submit pull request for any improvements or further visualisation suggestion.
